@@ -1,1 +1,1 @@
-# game-store
+Projeto encontra-se da branch master.
