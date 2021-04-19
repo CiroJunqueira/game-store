@@ -1,4 +1,5 @@
 # game-store
+Projeto relativo à uma implementação de uma gamestore, aonde o usuário pode adicionar jogos presentes no banco de dados em um carrinho, reordená-los de acordo com parâmetros preestabelecidos, realizar check-out, entre outras operações.
 
 No projeto, foi adicionada conexão com o banco de dados mySQL e usado o Postman para teste de requisições.
 endpoints usados: 
